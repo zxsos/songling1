@@ -1,8 +1,0 @@
-prefix=/home/szx/桌面/songling1/install
-
-Name: odometry
-Description: Description of odometry
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib -lodometry
-Requires: roscpp rospy std_msgs

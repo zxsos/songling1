@@ -24,9 +24,9 @@ include_directories(
   ${catkin_INCLUDE_DIRS}
 )
 
-add_executable(show_camera src/show_camera.cpp)
-add_dependencies(show_camera ${${PROJECT_NAME}_EXPORTED_TARGETS} ${catkin_EXPORTED_TARGETS})
-target_link_libraries(show_camera
+add_executable(opencv src/opencv.cpp)
+add_dependencies(opencv ${${PROJECT_NAME}_EXPORTED_TARGETS} ${catkin_EXPORTED_TARGETS})
+target_link_libraries(opencv
   ${catkin_LIBRARIES}
   ${OpenCV_LIBRARIES}
 )

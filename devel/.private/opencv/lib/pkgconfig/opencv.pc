@@ -1,8 +1,0 @@
-prefix=/home/szx/桌面/songling1/devel/.private/opencv
-
-Name: opencv
-Description: Description of opencv
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 

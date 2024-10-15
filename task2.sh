@@ -4,7 +4,10 @@
 source devel/setup.bash
 
 # 启动激光雷达
-xterm -hold -e "roslaunch scout_bringup open_rslidar.launch" &
+gnome-terminal -- bash -c "roslaunch scout_bringup open_rslidar.launch; exec bash" &
+
+# 等待几秒钟，确保激光雷达节点已经启动
+sleep 5
 
 # 启动 odometry 节点
-roslaunch odometry odometry.launch
+gnome-terminal -- bash -c "roslaunch odometry odometry.launch; exec bash"

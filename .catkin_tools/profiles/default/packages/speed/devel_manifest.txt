@@ -1,6 +1,0 @@
-speed
-/home/szx/桌面/songling1/devel/.private/speed/cmake.lock /home/szx/桌面/songling1/devel/./cmake.lock
-/home/szx/桌面/songling1/devel/.private/speed/lib/pkgconfig/speed.pc /home/szx/桌面/songling1/devel/lib/pkgconfig/speed.pc
-/home/szx/桌面/songling1/devel/.private/speed/lib/speed/speed_node /home/szx/桌面/songling1/devel/lib/speed/speed_node
-/home/szx/桌面/songling1/devel/.private/speed/share/speed/cmake/speedConfig.cmake /home/szx/桌面/songling1/devel/share/speed/cmake/speedConfig.cmake
-/home/szx/桌面/songling1/devel/.private/speed/share/speed/cmake/speedConfig-version.cmake /home/szx/桌面/songling1/devel/share/speed/cmake/speedConfig-version.cmake

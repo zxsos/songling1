@@ -103,7 +103,7 @@ int main(int argc, char **argv)
 
     // 设置本地化环境,可以打印汉字
     setlocale(LC_ALL,"");
-    ros::init(argc, argv, "speed_subscriber");
+    ros::init(argc, argv, "odometry");
     ros::NodeHandle n;
     /*
     使用

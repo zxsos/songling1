@@ -1,8 +1,0 @@
-prefix=/home/szx/桌面/songling1/devel/.private/speed
-
-Name: speed
-Description: Description of speed
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 

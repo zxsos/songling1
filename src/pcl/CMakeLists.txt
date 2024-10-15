@@ -23,9 +23,9 @@ include_directories(
   ${PCL_INCLUDE_DIRS}
 )
 
-add_executable(show_pcl_node src/show_pcl_node.cpp)
-add_dependencies(show_pcl_node ${${PROJECT_NAME}_EXPORTED_TARGETS} ${catkin_EXPORTED_TARGETS})
-target_link_libraries(show_pcl_node
+add_executable(pcl src/pcl.cpp)
+add_dependencies(pcl ${${PROJECT_NAME}_EXPORTED_TARGETS} ${catkin_EXPORTED_TARGETS})
+target_link_libraries(pcl
   ${catkin_LIBRARIES}
   ${PCL_LIBRARIES}
 )

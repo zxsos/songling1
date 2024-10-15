@@ -1,1 +1,0 @@
-/home/szx/桌面/songling1/devel/.private/catkin_tools_prebuild/env.sh

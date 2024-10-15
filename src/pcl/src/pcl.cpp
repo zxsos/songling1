@@ -6,7 +6,7 @@
 
 配置环境变量 source devel/setup.bash 
 
-运行节点 rosrun pcl show_pcl_node
+运行节点 rosrun pcl pcl
 */
 
 #include <iostream>
@@ -66,7 +66,7 @@ void cloud_cb (const sensor_msgs::PointCloud2ConstPtr& input)
 int main (int argc, char** argv)
 {
   // 初始化ROS节点
-  ros::init(argc, argv, "show_pcl_node");
+  ros::init(argc, argv, "pcl");
   ros::NodeHandle nh;
 
   // 创建一个ROS订阅者，用于订阅点云数据
