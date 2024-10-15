@@ -1,0 +1,6 @@
+opencv
+/home/szx/桌面/songling1/devel/.private/opencv/cmake.lock /home/szx/桌面/songling1/devel/./cmake.lock
+/home/szx/桌面/songling1/devel/.private/opencv/lib/opencv/show_camera /home/szx/桌面/songling1/devel/lib/opencv/show_camera
+/home/szx/桌面/songling1/devel/.private/opencv/lib/pkgconfig/opencv.pc /home/szx/桌面/songling1/devel/lib/pkgconfig/opencv.pc
+/home/szx/桌面/songling1/devel/.private/opencv/share/opencv/cmake/opencvConfig-version.cmake /home/szx/桌面/songling1/devel/share/opencv/cmake/opencvConfig-version.cmake
+/home/szx/桌面/songling1/devel/.private/opencv/share/opencv/cmake/opencvConfig.cmake /home/szx/桌面/songling1/devel/share/opencv/cmake/opencvConfig.cmake

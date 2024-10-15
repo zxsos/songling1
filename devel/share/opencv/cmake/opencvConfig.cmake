@@ -1,0 +1,1 @@
+/home/szx/桌面/songling1/devel/.private/opencv/share/opencv/cmake/opencvConfig.cmake

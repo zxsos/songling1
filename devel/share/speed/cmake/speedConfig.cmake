@@ -1,0 +1,1 @@
+/home/szx/桌面/songling1/devel/.private/speed/share/speed/cmake/speedConfig.cmake

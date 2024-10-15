@@ -7,6 +7,7 @@ roslaunch scout_bringup open_rslidar.launch
 然后新开一个窗口运行odometry.cpp文件
 rosrun odometry odometry
 
+
 */
 
 // #include <ros/ros.h> // 包含ROS的头文件
