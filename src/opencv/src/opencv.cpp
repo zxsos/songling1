@@ -4,8 +4,7 @@
 开启相机
 roslaunch realsense2_camera rs_camera.launch
 
-别忘记了配置环境变量
- source devel/setup.bash
+source devel/setup.bash
 
 rosrun opencv opencv
 
