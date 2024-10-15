@@ -1,6 +1,0 @@
-<launch>
-  <include file="$(find odometry)/launch/odometry.launch" />
-  <include file="$(find opencv)/launch/opencv.launch" />
-  <include file="$(find pcl)/launch/pcl.launch" />
-  <include file="$(find speed)/launch/speed.launch" />
-</launch>
