@@ -1,0 +1,4 @@
+<launch>
+  <node name="speed_node" pkg="speed" type="speed" output="screen">
+  </node>
+</launch>
